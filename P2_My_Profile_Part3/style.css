@@ -1,0 +1,42 @@
+.nav-link {
+    color: whitesmoke !important; 
+}
+
+.rounded-circle {
+ width: 150px; 
+ height: 150px;
+}
+
+.pfp2 {
+    width: 500px; 
+    height: 500px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+#about {
+    margin-bottom: 0;
+    background-color: #da9ff9;
+}
+
+#skills {
+    background-color: #98acf8;
+}
+
+.card-body {
+    background-color:  #bedcfa;
+}
+
+#education {
+    background-color: #da9ff9;
+}
+
+#awards {
+    background-color: #98acf8;
+}
+
+#footer {
+    background-color: whitesmoke;
+}
